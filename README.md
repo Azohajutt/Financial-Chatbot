@@ -1,7 +1,5 @@
 # Financial Advisor AI Chatbot
 
-![Financial Advisor Logo](financial_chatbot_logo_1772569533123.png)
-
 A high-performance, intelligent financial advisor chatbot built with LangChain, Groq, and Llama 3. This system provides concise, expert-level insights into personal finance, budgeting, and investment strategies while maintaining a persistent conversation memory.
 
 ---
